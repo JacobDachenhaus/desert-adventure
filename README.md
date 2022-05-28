@@ -11,3 +11,4 @@ Reasons for archival:
 The app still functions and can be played if you'd like to try it out!
 
 # Desert Adventure!
+![Example](/screenshot.png)
